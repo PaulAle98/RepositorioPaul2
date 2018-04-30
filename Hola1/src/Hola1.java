@@ -10,7 +10,8 @@ public class Hola1 {
 		System.out.println("Hola Mundo 6");
 		System.out.println("Hola mundo 7");
 		System.out.println("Hola mundo 8");
-		System.out.println("Hola Gaspar 1");
+		System.out.println("Hola Paul 1");
+		System.out.println("Hola Paul 2");
 	}
 
 }
