@@ -8,6 +8,7 @@ public class Hola1 {
 		System.out.println("Hola Mundo 4");
 		System.out.println("Hola Mundo 5");
 		System.out.println("Hola Mundo 6");
+		System.out.println("Hola mundo 7");
 	}
 
 }
