@@ -12,7 +12,7 @@ public class Hola1 {
 		System.out.println("Hola mundo 8");
 		System.out.println("Hola Paul 1");
 		System.out.println("Hola Paul 2");
-		System.out.println("Puto el que lo lea");
+		System.out.println("Hola Gaspar 2");
 	}
 
 }
